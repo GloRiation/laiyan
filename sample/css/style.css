@@ -1,0 +1,131 @@
+@import
+url('https://fibts.googleapis.com/css?family=Roboto');
+@import
+url('https://fibts.googleapis.com/css?family=Noto+Serif+TC');
+.home{
+	background: url("../images/website-background.gif");
+	background-size: cover;
+	height: 100vh;
+}
+
+.about{
+	background: url("../images/website-background.gif");
+	background-size: cover;
+	height: 100vh;
+}
+.service{
+	background: url("../images/website-background.gif");
+	background-size: cover;
+	height: 100vh;
+}
+
+.contact{
+	background: url("../images/website-background.gif");
+	background-size: cover;
+	height: 100vh;
+}
+.contact-content{
+	margin: 30px auto 0 auto;
+}
+
+.contact-content h1{
+	color: white;
+	font-size: 45px;
+	text-align: center;
+}
+
+.address-container{
+	color: gray;
+	font-size: 20px;
+	text-align: center;
+}
+
+.contact .contact-content .address-container{
+	font-family: 'Lato', sans-serif;
+}
+.text-container{
+	text-align: center;
+	display: flex;
+	height: 90vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.about-content{
+	margin: 150px auto 0 auto;
+	width: 500px;
+}
+
+.about-content h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+.about-content p{
+	text-align: justify;
+	font-family: 'Noto-Serif-TC', sans-serif;
+	color: green;
+}
+
+.service .service-content{
+	margin: 80px auto 0 auto;
+	text-align: center;	
+
+}
+
+.service-content h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color:orange;
+}
+
+
+.service-content .card-container{
+	margin: 20px;
+	text-align: center;
+}
+
+.service-content .card-container ul li p{
+	text-align: center;
+	color: white;
+}
+
+.service-content .card-container p{
+	width: 200px;
+}
+.service-content .card-container ul{
+	padding: 0;
+}
+.service-content .card-container ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 20px;
+	width: 250px;
+}
+.nav{
+	height: 50px;
+	background: blue;
+}
+
+.nav div{
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+}
+.nav ul{
+	position: absolute;
+	right: 5px;
+}
+
+.nav ul li{
+	display: inline-block;	
+}
+
+.nav ul li a{
+	color: white;
+	padding: 5px;
+}
