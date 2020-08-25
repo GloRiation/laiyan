@@ -1,0 +1,20 @@
+.type-1{
+	font-size:24px;
+	color:orange;
+	text-align:center;
+}
+
+#intro{
+	font-size:12px;
+       	color:red;	
+}
+
+input[type=text]{
+	font-size:36px;
+	color:blue;
+}
+
+body{
+	background-image:url("../media/anivia.jpg");
+	background-size:cover;
+}

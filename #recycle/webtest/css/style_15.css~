@@ -1,0 +1,22 @@
+.type-1{
+	font-size:48px;
+	color:orange;
+	text-align:center;
+	font-weight:800;
+	font-family:'Roboto', sans-serif;
+}
+
+#intro{
+	font-size:12px;
+       	color:red;	
+}
+
+input[type=text]{
+	font-size:36px;
+	color:blue;
+}
+
+body{
+	background-image:url("../media/anivia.jpg");
+	background-size:cover;
+}

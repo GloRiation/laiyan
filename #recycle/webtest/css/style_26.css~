@@ -1,0 +1,48 @@
+.type-1{
+	font-size:48px;
+	color:orange;
+	text-align:center;
+	font-weight:800;
+	font-family:'Roboto', sans-serif;
+}
+.starlord{
+	margin-top: 20px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.tea{
+	height:200px;
+	width:200px;
+}
+
+.relative-me{
+	position: relative;
+	top:200px;
+}
+
+.rocket{
+	border-width:2px;
+	border-style:solid;
+	border-color:black;	
+	border-radius:10px;
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+}
+
+#intro{
+	font-size:12px;
+       	color:red;	
+}
+
+input[type=text]{
+	font-size:36px;
+	color:blue;
+}
+
+body{
+	background-image:url("../media/anivia.jpg");
+	background-size:cover;
+}

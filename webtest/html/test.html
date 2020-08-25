@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/style1.css">
+	</head>
+
+	<body>
+		<a>ff</a>
+		<button>Click me</button>
+		<p>hello</p>		
+		<p>hello</p>		
+		<p>hello</p>		
+		<p>hello</p>		
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>		
+		<script type = "text/javascript">
+			var aEl = document.querySelector("a");
+			aEl.setAttribute("href", "http://google.com")
+			var el = document.querySelector("a");
+			el.style.fontSize="50px";
+			function clicked(){
+				alert('Oh! Clicked!');
+			}
+			var myBtn = document.querySelector("button");
+			myBtn.addEventListener('click', function(){
+				alert("Oh! Clicked.")
+			});
+		</script>
+		<a>Google</a>
+	</body>
+</html>

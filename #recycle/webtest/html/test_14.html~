@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/style1.css">
+	</head>
+	<body>
+	
+		<a>Google</a>
+	
+		<script>		
+			document.getElementById("type-1").innerHTML = "JJJJ";
+			var aEl = document.querySelector("a");
+			aEl.setAttribute("href", "http://google.com");
+		</script>
+		<p id = "type-1"></p>
+			
+		<a>Google</a>
+	</body>
+</html>

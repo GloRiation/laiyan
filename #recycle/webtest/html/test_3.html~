@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/style1.css">
+	</head>
+	<body>
+		<script>		
+			document.getElementById("type-1").innerHTML = "Here is some text for you!";
+		</script>
+		<p id="type-1">123</p>
+	
+	</body>
+</html>

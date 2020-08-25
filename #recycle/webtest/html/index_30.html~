@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>HK Lai Yan</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+	</head>
+	<body>
+	<script>
+		var x = "Programming Hub";
+		document.write(x);
+		var x = 23; var y = 43;
+		if(x>=y){
+			document.write("x is greater than y");
+		}
+		else{
+			document.write("x isnt greater than y");
+		}
+		var students =["Ashley","John","Tim","Mac","Wesley"]	
+		for(var i=1; i<5; i++){
+			document.write(students[i]);
+		}
+	</script>
+		<div class="trimmed">I know I am going to get slashed from bottom but it’s fine. Someone will save me. Hopes intact.</div>
+		<p class="type-1">testing</p>
+		<span class="block-me">i need space.</span>
+		<div>
+			<h1 id="intro">This is Lai yan hk</h1>
+			<label for="fname">First name:</label>
+			<input type="text" id="fname" name="fname"><br><br>
+		</div>
+		<a href="https://programminghub.io">click me</a>
+		<img src="../media/tea.jpg" class="tea">
+		<div class="rocket">The box has margin around it.</div>
+		<div class="relative-me">What does this even mean? Look up.</div>
+		<div class="fixed-me">I get attached soon.</div>
+		<div class="inline-me">Hey, I wish we were together.</div>
+		<div class="inline-you">What's stopping you</div>
+		<div class="scroll">I knew you would save me. Let's show the world what we are made of</div>
+		<input class="hover-1" type="button" value="hover">
+	</body>
+</html>

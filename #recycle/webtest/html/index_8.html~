@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>HK Lai Yan</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+	</head>
+	<body>
+		<p class="type-1">testing</p>
+		<div>
+			<h1 id="intro">This is Lai yan hk</h1>
+			<label for="fname">First name:</label>
+			<input type="text" id="fname" name="fname"><br><br>
+		</div>
+		<img src="../media/tea.jpg" class="tea">
+		<div class="starlord">The box has margin around it.</div>
+	</body>
+</html>

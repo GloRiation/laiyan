@@ -1,0 +1,14 @@
+p{
+	.type-1{
+		font-size:24px;
+		color:orange;
+	}
+	.type-2{
+		font-size:12px;
+	       	color:red;	
+	}
+}
+body{
+	background:url("../media/anivia");
+	background-size:contain;
+}

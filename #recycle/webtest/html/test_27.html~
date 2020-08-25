@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="../css/style1.css">
+	</head>
+
+	<body>
+		<a>ff</a>
+	<script>		
+		var aEl = document.querySelector("a");
+		aEl.setAttribute("href", "http://google.com");
+	</script>
+		<a>Google</a>
+	</body>
+</html>

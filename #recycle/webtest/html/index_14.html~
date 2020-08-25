@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>HK Lai Yan</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+	</head>
+	<body>
+		<p class="type-1">testing</p>
+		<span class="block-me">i need space.</span>
+		<div>
+			<h1 id="intro">This is Lai yan hk</h1>
+			<label for="fname">First name:</label>
+			<input type="text" id="fname" name="fname"><br><br>
+		</div>
+		<img src="../media/tea.jpg" class="tea">
+		<div class="rocket">The box has margin around it.</div>
+		<div class="relative-me">What does this even mean? Look up.</div>
+		<div class="fixed-me">I get attached soon.</div>
+		<div class="inline-me">Hey, I wish we were together.</div>
+		<div class="inline-you">What's stopping you</div>
+	</body>
+</html>
